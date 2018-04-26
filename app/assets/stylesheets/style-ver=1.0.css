@@ -54,8 +54,11 @@ Updated	 :	03.02.2018
   font-style: normal;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Comfortaa", cursive;
     color: #3c3c3c;
     font-size: 15px;
     line-height: 1.86;
