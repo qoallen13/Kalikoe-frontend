@@ -54,11 +54,12 @@ Updated	 :	03.02.2018
   font-style: normal;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
 
 
 body {
-    font-family: "Comfortaa", cursive;
+    font-family: 'Nunito Sans', sans-serif;
+
     color: #3c3c3c;
     font-size: 15px;
     line-height: 1.86;
